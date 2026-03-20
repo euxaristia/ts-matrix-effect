@@ -1,0 +1,13 @@
+{
+  "name": "ts-matrix-effect",
+  "version": "1.0.0",
+  "description": "A TypeScript implementation of the classic Matrix digital rain effect for the web canvas.",
+  "main": "src/matrix.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
